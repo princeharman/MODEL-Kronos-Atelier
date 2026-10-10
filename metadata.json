@@ -1,0 +1,6 @@
+{
+  "name": "Kronos Atelier — Interactive 3D Spatial Studio",
+  "description": "Interactive 3D spatial product and architectural geometry studio powered by WebGL and Three.js with real-time PBR materials, exploded kinematics, and studio lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
